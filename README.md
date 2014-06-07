@@ -1,12 +1,12 @@
 # Iniciando Com Testes de Unidade e Funcionais Usando RSpec
 
-[![Build Status](https://img.shields.io/travis/wbotelhos/iniciando_com_testes_de_unidade_e_funcionais_usando_rspec/master.svg)](https://travis-ci.org/wbotelhos/iniciando_com_testes_de_unidade_e_funcionais_usando_rspec "Travis CI")
-[![Code Climate](https://codeclimate.com/github/wbotelhos/iniciando_com_testes_de_unidade_e_funcionais_usando_rspec.png)](https://codeclimate.com/github/wbotelhos/iniciando_com_testes_de_unidade_e_funcionais_usando_rspec "Code Climate")
+[![Build Status](https://img.shields.io/travis/wbotelhos/iniciando-com-testes-de-unidade-e-funcionais-usando-rspec/master.svg)](https://travis-ci.org/wbotelhos/iniciando-com-testes-de-unidade-e-funcionais-usando-rspec "Travis CI")
+[![Code Climate](https://codeclimate.com/github/wbotelhos/iniciando-com-testes-de-unidade-e-funcionais-usando-rspec.png)](https://codeclimate.com/github/wbotelhos/iniciando-com-testes-de-unidade-e-funcionais-usando-rspec "Code Climate")
 [![Support wbotelhos.com](http://img.shields.io/gittip/wbotelhos.svg)](https://www.gittip.com/wbotelhos "Git Tip")
 
 ## Contributors
 
-[Check it out](http://github.com/wbotelhos/iniciando_com_testes_de_unidade_e_funcionais_usando_rspec/graphs/contributors)
+[Check it out](http://github.com/wbotelhos/iniciando-com-testes-de-unidade-e-funcionais-usando-rspec/graphs/contributors)
 
 ## Licence
 
